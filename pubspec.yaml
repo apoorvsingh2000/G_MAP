@@ -15,6 +15,19 @@ dependencies:
   image_picker: ^0.6.3+4
   matrix4_transform: ^1.1.5
   google_fonts:
+  poly: ^1.0.7+2
+  introduction_screen: ^1.0.7
+  
+  #firbase
+  firebase_core: ^0.5.0
+  cloud_firestore: ^0.14.0+2
+  firebase_auth: ^0.18.0+1
+  google_sign_in: ^4.5.3
+  connectivity_wrapper: ^1.0.4
+  
+  #shared prefrences
+  shared_preferences: ^0.5.12
+
 
 dev_dependencies:
   flutter_test:
